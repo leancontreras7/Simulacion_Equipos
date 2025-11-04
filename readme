@@ -1,0 +1,7 @@
+echo "# Simulacion_Equipos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/leancontreras7/Simulacion_Equipos.git
+git push -u origin main
